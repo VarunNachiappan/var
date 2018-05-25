@@ -16,7 +16,7 @@ class Ideone
 			System.out.println("3");
 		}
 		else{
-		   System.out.println("7");	
+		   System.out.println("7");     	
 		}
 	}
 }
