@@ -9,7 +9,7 @@ if(a==3){
 	printf("5");}
 else{
 
-print("6");
+printf("6");
 }
 
 	return 0;
