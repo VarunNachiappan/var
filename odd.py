@@ -1,3 +1,5 @@
 a=input()
-if(a==5)
-print"Odd"
+if(a==5):
+  print"Odd"
+else:
+  print"Even"
