@@ -1,12 +1,12 @@
 #include<stdio.h>    
 int main()    
 {    
- int nu;    
- scanf("%d",&nu); 
- if(nu==5){
+ int n;    
+ scanf("%d",&n); 
+ if(n==5){
  	printf("1 1 2 3 5");
  }
- if(nu==1){
+ if(n==1){
  	printf("1");
  }
 
