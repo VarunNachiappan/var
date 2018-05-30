@@ -2,12 +2,12 @@
 int main(void){
 	int num;
 	scanf("%d",&num);
-	if(num==3){
+	if(num==10){
 		
-printf("3");}
+printf("90");}
 
-if(num==5){
-	printf("5");
+if(num==88){
+	printf("88");
 	
 }
 	
