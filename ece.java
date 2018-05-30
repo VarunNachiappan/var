@@ -9,10 +9,10 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int b;
+		int c;
 		Scanner in = new Scanner(System.in);
-		b = in.nextInt();
-		if(b==2){
+		c= in.nextInt();
+		if(c==2){
 			System.out.println("Yes");
 		}
 		else{
