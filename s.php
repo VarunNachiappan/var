@@ -1,5 +1,5 @@
 <?php
-$s="he";
+$s="h3";
 $v=readline();
 if($v==1100101){
 	echo("yes");
