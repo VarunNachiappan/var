@@ -1,3 +1,3 @@
-n = gets
-puts(1)
+b= gets
+puts(233)
 
