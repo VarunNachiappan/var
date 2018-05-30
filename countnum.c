@@ -3,12 +3,12 @@
 int main(void) {
 	int a;
 	scanf("%d",&a);
-	if(a==521){
-		printf("3");
+	if(a==1){
+		printf("One");
 	}
-	if(a==5312345)
+	if(a==2)
 	{
-		printf("7");
+		printf("Two");
 	}
 	
 	return 0;
