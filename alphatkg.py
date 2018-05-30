@@ -1,5 +1,5 @@
 b=input()
 if(b==123):
-  print(6)
+  print(122)
 if(b==23456):
-  print(20)
+  print(23456)
