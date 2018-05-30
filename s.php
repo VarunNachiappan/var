@@ -1,5 +1,5 @@
 <?php
-$s="hee";
+$s="he";
 $v=readline();
 if($v==1100101){
 	echo("yes");
