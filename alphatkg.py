@@ -1,5 +1,5 @@
-a=input()
-if(a==123):
+b=input()
+if(b==123):
   print(6)
-if(a==23456):
+if(b==23456):
   print(20)
